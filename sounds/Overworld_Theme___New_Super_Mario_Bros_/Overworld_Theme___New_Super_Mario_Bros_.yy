@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"Overworld_Theme___New_Super_Mario_Bros_",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":181.23755,
+  "name":"Overworld_Theme___New_Super_Mario_Bros_",
+  "parent":{
+    "name":"Sounds",
+    "path":"folders/Sounds.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"Overworld_Theme___New_Super_Mario_Bros_.mp3",
+  "type":0,
+  "volume":1.0,
+}
